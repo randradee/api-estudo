@@ -20,3 +20,12 @@ mvn spring-boot:run
 | POST   | /api/produto/     |
 | PUT    | /api/produto/:id  |
 | DELETE | /api/produto/:id  |
+
+## Roadmap
+
+- [X] CRUD
+- [ ] Swagger
+- [ ] Testes unitários
+- [ ] Testes de integração
+- [ ] Testes de aceitação
+- [ ] Incluir mais um modelo e fazer relação OneToMany
